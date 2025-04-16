@@ -1,1 +1,1 @@
-# SpringAzureDemo
+# springboot-azuresql
